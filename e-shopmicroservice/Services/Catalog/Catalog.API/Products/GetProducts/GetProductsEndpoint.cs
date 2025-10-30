@@ -1,6 +1,9 @@
-﻿namespace Catalog.API.Products.GetProducts
-{
+﻿using BuildingBlock.CQRS;
+using Catalog.API.Models;
+
+
+
     public class GetProductsEndpoint
     {
     }
-}
+
