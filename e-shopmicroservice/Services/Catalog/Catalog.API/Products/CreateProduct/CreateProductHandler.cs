@@ -1,8 +1,4 @@
 ﻿using BuildingBlock.CQRS;
-using Catalog.API.Models;
-using MediatR;
-using Marten;
-
 namespace Catalog.API.Products.CreateProduct
 { 
 
