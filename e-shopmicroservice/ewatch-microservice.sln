@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{9EF5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalog.API", "Services\Catalog\Catalog.API\Catalog.API.csproj", "{5FA46A7C-DD99-4FD3-B0C5-18CE4A466F4A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlock", "BuildingBlock", "{DB5EC19A-3DEE-4E6D-B360-41072B97C20B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlocks", "BuildingBlocks", "{DB5EC19A-3DEE-4E6D-B360-41072B97C20B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingBlock", "BuildBlock\BuildingBlock\BuildingBlock.csproj", "{0FF176C2-B928-43A2-8922-C05469102E6D}"
 EndProject
